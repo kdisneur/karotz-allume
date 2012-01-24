@@ -1,0 +1,10 @@
+<screen
+  nanoTrigger="true"
+  permanentTrigger="true"
+  scheduledTrigger="true"
+  scheduledDateTrigger="true"
+  voiceTrigger="true">
+
+  <text label="nom lampe" name="name" required="true" />
+
+</screen>
